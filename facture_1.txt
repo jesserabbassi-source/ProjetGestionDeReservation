@@ -1,0 +1,16 @@
+========================================
+          FACTURE DE RESERVATION
+========================================
+
+ID Reservation : 1
+Client         : jesser
+Salle          : salleA
+Date           : 2025-12-08
+Horaire        : 1h00 - 19h00
+Duree          : 18 heures
+Nb personnes   : 12
+Statut         : CONFIRMEE
+
+----------------------------------------
+MONTANT TOTAL  : 594.00 DT
+========================================

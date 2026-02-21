@@ -1,0 +1,16 @@
+========================================
+          FACTURE DE RESERVATION
+========================================
+
+ID Reservation : 4
+Client         : salleB
+Salle          : salleB
+Date           : 2025-12-12
+Horaire        : 10h00 - 11h00
+Duree          : 1 heures
+Nb personnes   : 11
+Statut         : CONFIRMEE
+
+----------------------------------------
+MONTANT TOTAL  : 11.00 DT
+========================================

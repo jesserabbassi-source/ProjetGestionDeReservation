@@ -1,0 +1,16 @@
+========================================
+          FACTURE DE RESERVATION
+========================================
+
+ID Reservation : 3
+Client         : jerbi
+Salle          : salleB
+Date           : 2026-02-12
+Horaire        : 2h00 - 3h00
+Duree          : 1 heures
+Nb personnes   : 10
+Statut         : CONFIRMEE
+
+----------------------------------------
+MONTANT TOTAL  : 11.00 DT
+========================================

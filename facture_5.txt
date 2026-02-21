@@ -1,0 +1,16 @@
+========================================
+          FACTURE DE RESERVATION
+========================================
+
+ID Reservation : 5
+Client         : ahmed
+Salle          : salleA
+Date           : 2026-02-12
+Horaire        : 1h00 - 3h00
+Duree          : 2 heures
+Nb personnes   : 1
+Statut         : CONFIRMEE
+
+----------------------------------------
+MONTANT TOTAL  : 66.00 DT
+========================================

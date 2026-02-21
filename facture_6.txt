@@ -1,0 +1,16 @@
+========================================
+          FACTURE DE RESERVATION
+========================================
+
+ID Reservation : 6
+Client         : mhlhk
+Salle          : salleD
+Date           : 2026-03-02
+Horaire        : 9h00 - 13h00
+Duree          : 4 heures
+Nb personnes   : 5
+Statut         : CONFIRMEE
+
+----------------------------------------
+MONTANT TOTAL  : 148.00 DT
+========================================
