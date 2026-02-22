@@ -3,14 +3,14 @@
 ========================================
 
 ID Reservation : 3
-Client         : jerbi
-Salle          : salleB
-Date           : 2026-02-12
-Horaire        : 2h00 - 3h00
-Duree          : 1 heures
-Nb personnes   : 10
+Client         : rana
+Salle          : salleA
+Date           : 2026-01-10
+Horaire        : 3h00 - 12h00
+Duree          : 9 heures
+Nb personnes   : 12
 Statut         : CONFIRMEE
 
 ----------------------------------------
-MONTANT TOTAL  : 11.00 DT
+MONTANT TOTAL  : 1404.00 DT
 ========================================

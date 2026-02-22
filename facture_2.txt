@@ -3,14 +3,14 @@
 ========================================
 
 ID Reservation : 2
-Client         : abbessi
-Salle          : salleA
-Date           : 2025-12-09
-Horaire        : 1h00 - 23h00
-Duree          : 22 heures
-Nb personnes   : 11
+Client         : jesser
+Salle          : salleB
+Date           : 2025-12-14
+Horaire        : 1h00 - 5h00
+Duree          : 4 heures
+Nb personnes   : 6
 Statut         : CONFIRMEE
 
 ----------------------------------------
-MONTANT TOTAL  : 726.00 DT
+MONTANT TOTAL  : 180.00 DT
 ========================================
