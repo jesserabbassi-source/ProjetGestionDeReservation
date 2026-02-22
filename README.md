@@ -264,8 +264,9 @@ Veuillez choisir un autre créneau horaire.
 ```
 
 ### 3D VISUALISATION
-<img width="1919" height="1078" alt="Capture d&#39;écran 2025-12-10 114224" src="https://github.com/user-attachments/assets/55b10a1a-2c05-46ae-90cb-3bc99b075f1b" />
-<img width="1919" height="1079" alt="Capture d&#39;écran 2025-12-10 114327" src="https://github.com/user-attachments/assets/993cafea-3426-4cb6-8309-232d5b21b346" />
+<img width="1917" height="1005" alt="image" src="https://github.com/user-attachments/assets/dc6f7d18-96fa-42e3-ada7-0570930e95a6" />
+<img width="1919" height="1003" alt="image" src="https://github.com/user-attachments/assets/e2464a44-1fd5-416b-99f5-7101b6e4025d" />
+<img width="1917" height="1002" alt="image" src="https://github.com/user-attachments/assets/a1dc34a2-9e4b-4254-bd48-204ad586bb86" />
 <img width="1919" height="1079" alt="Capture d&#39;écran 2025-12-10 114341" src="https://github.com/user-attachments/assets/6bf87152-b9fd-4cb2-a146-9ff700cb70ed" />
 <img width="1919" height="1079" alt="Capture d&#39;écran 2025-12-10 114347" src="https://github.com/user-attachments/assets/32e8e6d5-7c7a-43a1-85ab-6c14f96b96d7" />
 
@@ -335,7 +336,7 @@ Ce projet est développé dans un cadre éducatif.
 
 ## 👥 Auteur
 
-Projet de gestion de réservations - Système de Salles de Réunion - JERBI AHMED - ABASSI JESSER - ABDELATIF RANA 
+Projet de gestion de réservations - Système de Salles de Réunion - JERBI AHMED - ABBASSI JESSER - ABDELLATIF RANA 
 
 
 
